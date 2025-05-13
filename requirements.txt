@@ -1,0 +1,7 @@
+mediapipe>=0.10.21
+numpy>=1.26.4
+opencv-contrib-python>=4.11.0
+inputs>=0.5
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14
+keyboard>=0.13.5  # For custom controller
